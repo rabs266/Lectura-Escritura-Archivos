@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1391450756 source:/home/alexander/Projects/CodeBlocks/Lectura_Archivos/main.cpp
+	<iostream>
+	<fstream>
+
