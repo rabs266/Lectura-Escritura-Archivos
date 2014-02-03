@@ -34,7 +34,7 @@ int main()
     in >> e;
     in >> f;
 
-    cout << "int " a << endl;
+    cout << "int " << a << endl;
     cout << "double " << b << endl;
     cout << "float " << c << endl;
     cout << "bool " << d << endl;
